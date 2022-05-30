@@ -1,0 +1,47 @@
+body{
+background-color: rgba(49, 167, 9, 0.849);
+    
+}
+
+p{
+    margin: 10px 20px 15px; 
+    padding: 10px  ;
+    background-color: #82d679;
+    color: rgb(253, 9, 9);
+}
+
+h1{
+    margin:auto;
+}
+div{
+    margin-top: 2px;
+    text-align: center;
+}
+
+#contanier{
+    width: auto;
+    background-color: blue;
+}
+    .carusel{
+margin: 10px;
+    }
+.carusel img{
+width: 100%;
+    }
+.caresel{
+margin: 10px;
+display: flex;
+}
+.caresel div img{
+
+height: 670px;
+width: 100%;
+border-radius: 4px;
+box-shadow: 7px 9px 16px 0px rgb(24, 24, 24);
+justify-content: center;
+}
+p{
+    
+    font-family: 'Macondo', cursive;
+   
+}
